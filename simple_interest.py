@@ -1,0 +1,5 @@
+principal = int(1000)
+rate = float(0.05)
+time = str(3)
+interest = (int * float * str)
+print ("The simple interest is"(int * float * str))
